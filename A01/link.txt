@@ -1,0 +1,13 @@
+Link do repositório no GitHub
+
+https://github.com/abispo/curso-analise-de-dados-em-python-proway-20251124
+
+
+Sites:
+
+https://www.kaggle.com/ (datasets)
+
+https://seaborn.pydata.org/ (datasets e visuais)
+
+Site do dataset que usaremos:
+https://github.com/mwaskom/seaborn-data/blob/master/tips.csv

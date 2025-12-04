@@ -1,0 +1,12 @@
+pip install jupyter
+pip install ipykernel
+pip install pandas
+pip install numpy
+pip install seaborn
+pip install matplotlib
+
+pode ser feito em um comando só:
+pip install jupyter ipykernel pandas numpy seaborn matplotlib
+
+Instalar extenção:
+"jupyter" (microsoft)
